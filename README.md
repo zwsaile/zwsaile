@@ -1,6 +1,12 @@
-### Hi, I'm Zach!
+## Hi, I'm Zach!
 
-##### I am a Front End Software Engineer with a passion for solving complex code problems and designing beautiful and inuitive user interfaces. I find that most of my inspiration comes from seeing how common, everyday issues can be solved with just a little bit of innovation from someone like me. 
+#### I am a Front End Software Engineer with a passion for solving complex code problems and designing beautiful and inuitive user interfaces. I find that most of my inspiration comes from seeing how common, everyday issues can be solved with just a little bit of innovation from someone like me. If you would like to collaborate or think I would be a great fit for a position with your company, please get in touch!
+
+<hr></hr>
+
+* Email - zwsaile@gmail.com
+* LinkedIn - https://www.linkedin.com/in/zachary-saile/
+* Phone - 720-829-3859
 
 <hr></hr>
 
@@ -18,8 +24,11 @@
 ## Frameworks/Libraries:
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React%20Router-red?style=for-the-badge&logo=react-router&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Sass-ED95ED?style=for-the-badge&logo=sass&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=black"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"/>
   <img src="https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white"/>
