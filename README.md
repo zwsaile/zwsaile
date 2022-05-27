@@ -52,4 +52,6 @@
   <img src="https://img.shields.io/badge/AGILE%20-2A82E2.svg?&style=for-the-badge&logo=AGILE&logoColor=white"/>
 </p>
 
+<hr></hr>
 
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=22lkux35ob7h6xncgxd47goea&width=1000)
