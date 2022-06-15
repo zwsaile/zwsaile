@@ -12,6 +12,7 @@
 
 [![zwsaile's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwsaile&&show_icons=true&theme=cobalt)](https://github.com/zwsaile/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=zwsaile&color=74fcaf)
 <hr></hr>
 
 ## Languages:
