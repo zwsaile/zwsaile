@@ -1,6 +1,6 @@
 ## Hi, I'm Zach!
 
-#### I am a Front End Software Engineer with a passion for solving complex code problems and designing beautiful and inuitive user interfaces. I find that most of my inspiration comes from seeing how common, everyday issues can be solved with just a little bit of innovation from someone like me. If you would like to collaborate or think I would be a great fit for a position with your company, please get in touch!
+#### I am a Front End Software Developer that specializes in Vue and React. I have a strong passion for designing beautiful and inuitive user interfaces and nothing compares to the flutter of the heart when I solve a complex code problem. I find that most of my inspiration comes from seeing how common, everyday issues can be solved with just a little bit of innovation and imagination. If you would like to collaborate or think I would be a great fit for a position with your company, please get in touch!
 
 <hr></hr>
 
