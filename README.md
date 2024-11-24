@@ -1,6 +1,6 @@
 ## Hi, I'm Zach!
 
-#### I am a Front End Software Developer that specializes in Vue and React. I have a strong passion for designing beautiful and inuitive user interfaces and nothing compares to the flutter of the heart when I solve a complex code problem. I find that most of my inspiration comes from seeing how common, everyday issues can be solved with just a little bit of innovation and imagination. If you would like to collaborate or think I would be a great fit for a position with your company, please get in touch!
+#### I am a Software Engineer that specializes in Vue and React on the frontend and C# and Node on the backend. I have a strong passion for designing beautiful and inuitive user interfaces and nothing compares to the flutter of the heart when I solve a complex code problem. I find that most of my inspiration comes from seeing how common, everyday issues can be solved with just a little bit of innovation and imagination. If you would like to collaborate or think I would be a great fit for a position with your company, please get in touch!
 
 <hr></hr>
 
@@ -24,10 +24,12 @@
 
 ## Languages:
 <p>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
 
 ## Frameworks/Libraries:
