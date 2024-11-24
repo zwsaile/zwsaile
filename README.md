@@ -68,5 +68,3 @@
 </p>
 
 <hr></hr>
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=22lkux35ob7h6xncgxd47goea&width=1000)
