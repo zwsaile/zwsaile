@@ -4,7 +4,7 @@
 
 <hr></hr>
 
-* Email - zwsaile@gmail.com
+* Email - zwsaile@proton.me
 * LinkedIn - https://www.linkedin.com/in/zachary-saile/
 * Phone - 720-829-3859
 
